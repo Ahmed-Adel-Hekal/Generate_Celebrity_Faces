@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Generate_Celebrity_Faces
+This Notebook will use mnist & CelebFaces Attributes (CelebA) Datasets 
+to generate new mnist image & Celebrity Face .<br />
+the code may take a lot of time and consume a lot of resources so it better to use cloud services .<br />
+helper.py is code that prepare data for you save you alot of time and efforts give you chance to focus on your project.<br />
 
-You can use the [editor on GitHub](https://github.com/AhmedAdelHekal/Generate_Celebrity_Faces/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Built With
+1 - [tensorfow-v1](https://www.tensorflow.org/) - The web framework used<br />
+2 - [PIL](https://python-pillow.org/) - python image library<br />
+3 - [Matplotlib](https://matplotlib.org/) -  Visualization with Python<br />
+4 - [Numpy](https://numpy.org/) - The fundamental package for scientific computing with Python<br />
 
-### Markdown
+## Authors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Origanally this is a part of Deep_Learning_Nanodegree [Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
-```markdown
-Syntax highlighted code block
+***Ahmed_Hekal***
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AhmedAdelHekal/Generate_Celebrity_Faces/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
