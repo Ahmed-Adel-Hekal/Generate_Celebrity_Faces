@@ -1,5 +1,5 @@
 # Generate_Celebrity_Faces
-This Notebook will use mnist & CelebFaces Attributes (CelebA) Datasets.<br />
+This Notebook will use mnist & CelebFaces Attributes (CelebA) Datasets 
 to generate new mnist image & Celebrity Face .<br />
 the code may take a lot of time and consume a lot of resources so it better to use cloud services .<br />
 helper.py is code that prepare data for you save you alot of time and efforts give you chance to focus on your project.<br />
