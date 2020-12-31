@@ -13,5 +13,6 @@ helper.py is code that prepare data for you save you alot of time and efforts gi
 
 ## Authors
 
-Origanally this is part of Deep_Learning_Nanodegree [Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+Origanally this is a part of Deep_Learning_Nanodegree [Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
+***Ahmed_Hekal***
